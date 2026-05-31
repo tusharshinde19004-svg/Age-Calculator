@@ -1,2 +1,2 @@
 # Age-Calculator
-This id demo of Age Calculator
+This is a demo for Age Calculator
